@@ -32,7 +32,7 @@ Kaggle [dataset](https://www.kaggle.com/datasets/cybersimar08/face-recognition-d
 2. Navigate to the project directory:
 
     ```bash
-    cd "Face Recognition"
+    cd "spytorch/Face Recognition"
     ```
 
 3. Install the required Python packages:
